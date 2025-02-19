@@ -1,7 +1,5 @@
 ## Hello World! I'm Murio Campos! 
 
-<!--
-**Murilocampoos/Murilocampoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Sobre Mim
 
@@ -31,3 +29,6 @@ LinkedIn: https://www.linkedin.com/in/murilo-campos-lopes-99a529126?utm_source=s
 Curiosidades
 Café! ☕
 Artes e criatividade!
+
+
+**Murilocampoos/Murilocampoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
