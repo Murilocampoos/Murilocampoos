@@ -1,13 +1,13 @@
-# Hello World! I'm Murio Campos! 
+# Hello World! I'm Murio Campos! 🌐
 
-## Sobre Mim
+### Sobre Mim
 
-## Olá! Sou Murilo, imerso em tecnologia, adoro resolver problemas usando criatividade e trabalho em equipe. ‍ Minha missão é usar a tecnologia para criar soluções criativas e eficientes.
+ Olá! Sou Murilo, imerso em tecnologia, adoro resolver problemas usando criatividade e trabalho em equipe. ‍ Minha missão é usar a tecnologia para criar soluções criativas e eficientes.
 Tenho 16 anos de experiência na área de TI, e já fiz de tudo um pouco: desde instalar softwares e dar manutenção em computadores até desenvolver projetos e configurar redes. ️
 Sou um grande fã de aprender coisas novas e estou sempre em busca de aprimoramento. Recentemente, me aventurei voltando a estudar e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba. 
-## No meu GitHub, você vai encontrar alguns projetos que desenvolvemos em grupo, incluindo o QuantServ, um projeto super legal que criamos para a QuantIT, o nosso PI para o final do primeiro semestre.
-## Se você curte tecnologia, inovação e desafios, vamos nos conectar!
-* Habilidades
+ No meu GitHub, você vai encontrar alguns projetos que desenvolvemos em grupo, incluindo o QuantServ, um projeto super legal que criamos para a QuantIT, o nosso PI para o final do primeiro semestre.
+
+### Habilidades
 * Resolução de problemas
 * Manutenção de computadores
 * Instalação de softwares
