@@ -41,7 +41,7 @@ Período: 15/07/2013 a 13/12/2013
 Conecte-se comigo
 [LinkedIn:](https://www.linkedin.com/in/murilo-campos-lopes-99a529126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-####Curiosidades:
+### Curiosidades:
 Café! ☕
 Artes e criatividade!
 
